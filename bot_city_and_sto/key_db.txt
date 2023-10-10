@@ -1,2 +1,0 @@
-link acces - mongodb+srv://arlex:<password>@cluster0.xjmjtrz.mongodb.net/
-password - cijmnXWKMJKwkYke
